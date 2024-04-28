@@ -1,0 +1,13 @@
+# IDE/Editor files
+.classpath
+.project
+.settings/
+.metadata/
+
+# Build output
+target/
+
+# Maven wrapper
+.mvn/
+mvnw
+mvnw.cmd
